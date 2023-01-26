@@ -8,3 +8,5 @@ When you see "#" at the starting of the line then its a command, so when you wan
 
 
 YOU CAN ALSO USE THE "docker-download.sh" SCRIPT FOR INSTALLING SCRIPT
+
+NOTE ********** THIS SCRIPT ONLY WORK IN PRIVATE OR VMWARE *************
